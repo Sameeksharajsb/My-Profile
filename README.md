@@ -1,7 +1,7 @@
 # My Profile
 ## Resume 
 
-<code>Sameeksha_Raj_SB.pdf</code>
+<code>Sameeksha_Raj.pdf</code>
 
 ## Fields of Expertise
 
